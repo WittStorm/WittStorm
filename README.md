@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://i.loli.net/2021/08/03/YD247eWUaFtp5Xz.jpg)
+
 <!--
 **WittStorm/WittStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
